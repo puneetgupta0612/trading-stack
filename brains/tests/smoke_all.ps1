@@ -1,0 +1,6 @@
+$ErrorActionPreference = "Stop"
+Write-Host "Running smoke.ps1..."
+& "$PSScriptRoot\smoke.ps1"
+Write-Host "Running gates.ps1..."
+& "$PSScriptRoot\gates.ps1"
+Write-Host "`nALL TESTS PASSED ?"
