@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+brains/.venv/
+
+# Editors
+.vscode/
+
+# Logs & runtime
+*.log
+*.csv
+trade_log.csv
+runtime_counters.json
+runtime_config.json
+
+# MT5 artifacts (adjust as needed)
+*.hst
+*.dat
+*.tst
+
+# Credentials & env
+service_account.json
+brains/service_account.json
+.env
+API.env
+
+# OS
+.DS_Store
+Thumbs.db
