@@ -58,3 +58,6 @@ brains/gen_ohlc.py
 brains/gen_ohlc_stdlib.py
 brains/_start_server_unused.bat.bat
 
+
+brains/*.env
+
