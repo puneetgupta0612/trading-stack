@@ -1,0 +1,9 @@
+* text=auto
+
+# Force Windows endings for scripts that need them
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+
+# Keep code files normalized
+*.py  text eol=lf
+*.md  text eol=lf
