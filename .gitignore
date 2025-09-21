@@ -28,3 +28,14 @@ API.env
 # OS
 .DS_Store
 Thumbs.db
+
+brains/bt_markers.txt
+brains/diag.txt
+brains/folder_tree.txt
+tree.txt
+brains/New Microsoft Word Document.docx
+brains/New Text Document.txt
+brains/pd.Series
+brains/pd.DataFrame
+brains/row[ema_slow]
+brains/80
