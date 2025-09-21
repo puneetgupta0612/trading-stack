@@ -39,3 +39,14 @@ brains/pd.Series
 brains/pd.DataFrame
 brains/row[ema_slow]
 brains/80
+
+# Project extras
+brains/bt_markers.txt
+brains/bt_summary.json
+brains/diag.txt
+brains/folder_tree.txt
+brains/pd.*
+brains/row*
+brains/New Microsoft Word Document.docx
+brains/New Text Document.txt
+
